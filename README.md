@@ -11,7 +11,7 @@
 
 - Know about my experiences [I have been a computer technician at Ficosa and in the Department of the Interior of Spain.](I have been a computer technician at Ficosa and in the Department of the Interior of Spain.)
 
-- 🎮 Fun fact **Strategy and memory games**
+- 🎮 Entertainment **Strategy and memory games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
