@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Jose Manuel Cerón</h1>
 <h3 align="center">I am a junior developer</h3>
 
-- 💻 I’m currently working on [Ficosa Electronics.](https://www.ficosa.com/es/)
+- 💻 I’m currently looking for a job.
 
 - 💼 All of my projects are available at [https://github.com/TheLaance?tab=repositories](https://github.com/TheLaance?tab=repositories)
 
